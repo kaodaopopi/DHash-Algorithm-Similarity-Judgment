@@ -1,1 +1,1 @@
-# DHash_Algorithm_Similarity_Judgment
+# Compare the face in the camera is or isn't the face in the picture
